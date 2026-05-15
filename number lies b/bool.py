@@ -1,0 +1,1 @@
+print(bool(0),bool(1),bool(""),bool("hello"),bool([]),bool([1,2,3]),bool({}),bool({"a": 1}))
